@@ -37,8 +37,6 @@ Vou falar aqui, um pouquinho sobre mim:
 
   ![Snake animation](https://github.com/denisebraguin/denisebraguin/blob/output/github-contribution-grid-snake.svg)
  
-   [![HitCount](https://hits.dwyl.com/denisebraguin/{project}.svg?style=flat-square&show=unique)](http://hits.dwyl.com/denisebraguin/{project})
-     [![HitCount](https://hits.dwyl.com/denisebraguin/{project}.svg?style=flat-square)](http://hits.dwyl.com/denisebraguin/{project})
- 
+    
 </div>
 
