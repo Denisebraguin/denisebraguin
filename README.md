@@ -5,15 +5,14 @@ Vou falar aqui, um pouquinho sobre mim:
 - 🔭 Atualmente estou trabalhando na área comercial e ...
 - 👩‍🎓 Estudando Desenvolvimento Web Front-End, que sempre foi uma paixão 😍!!!
 - 😎 E estou procurando minha primeira oportunidade na área 🤞
-- 👩‍💻 Se você souber de alguma oportunidade ou quiser conversar comigo me manda uma mensagem 🥳
-
-<hr>
+- 👩‍💻 Se você souber de alguma oportunidade ou quiser conversar comigo me manda uma mensagem 🥳 
+<br>
 <div align="center"> 
   <a href="https://www.instagram.com/denise.brg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:denisebraguin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/denise-braguin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-<hr>
+<br> <br> 
+
   <div align="center">
   <a href="https://github.com/denisebraguin">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=denisebraguin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -36,8 +35,10 @@ Vou falar aqui, um pouquinho sobre mim:
   ##
  
 
-  
- 
   ![Snake animation](https://github.com/denisebraguin/denisebraguin/blob/output/github-contribution-grid-snake.svg)
  
+   [![HitCount](https://hits.dwyl.com/denisebraguin/{project}.svg?style=flat-square&show=unique)](http://hits.dwyl.com/denisebraguin/{project})
+     [![HitCount](https://hits.dwyl.com/denisebraguin/{project}.svg?style=flat-square)](http://hits.dwyl.com/denisebraguin/{project})
+ 
 </div>
+
