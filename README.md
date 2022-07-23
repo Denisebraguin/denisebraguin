@@ -39,4 +39,9 @@ Vou falar aqui, um pouquinho sobre mim:
  
     
 </div>
+  
+  <div align="center">
+  
+![Profile views](https://gpvc.arturio.dev/Denisebraguin )
 
+</div>
