@@ -2,7 +2,7 @@
 
 Vou falar aqui, um pouquinho sobre mim:
 
-- 🔭 Atualmente estou trabalhando na área comercial e ...
+- 🔭 Tenho experiência nas áreas: comercial, faturamento, logistica, financeiro e recursos humanos, mas ...
 - 👩‍🎓 Estudando Desenvolvimento Web Front-End, que sempre foi uma paixão 😍!!!
 - 😎 E estou procurando minha primeira oportunidade na área 🤞
 - 👩‍💻 Se você souber de alguma oportunidade ou quiser conversar comigo me manda uma mensagem 🥳 
@@ -28,7 +28,6 @@ Vou falar aqui, um pouquinho sobre mim:
   <img align="center" alt="CANVA" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="AI" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="PHOTOSHOP" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="UNREAL" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
   <img align="center" alt="FIGMA" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />        
  </div>
   
