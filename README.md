@@ -14,7 +14,8 @@ Vou falar aqui, um pouquinho sobre mim:
 <br> <br> 
     
 </div>
-<div style="display: inline_block">
+
+<div align="center">
 <h3> Tecnologias que utilizo atualmente </h3>
   <img align="center" alt="HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="CSS" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -28,14 +29,10 @@ Vou falar aqui, um pouquinho sobre mim:
   
   ##
  
-
-  ![Snake animation](https://github.com/denisebraguin/denisebraguin/blob/output/github-contribution-grid-snake.svg)
- 
-    
+  
 </div>
   
-  <div align="center">
+<div align="center">
   
 ![Profile views](https://gpvc.arturio.dev/Denisebraguin )
-
 </div>
