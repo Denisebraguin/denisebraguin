@@ -2,7 +2,7 @@
 
 Vou falar aqui, um pouquinho sobre mim:
 
-- 🔭 Tenho experiência nas áreas: comercial, faturamento, logistica, financeiro e recursos humanos, mas ...
+- 🔭 Tenho experiência nas áreas: comercial, faturamento, financeiro e recursos humanos, mas estou...
 - 👩‍🎓 Estudando Desenvolvimento Web Front-End, que sempre foi uma paixão 😍!!!
 - 😎 E estou procurando minha primeira oportunidade na área 🤞
 - 👩‍💻 Se você souber de alguma oportunidade ou quiser conversar comigo me manda uma mensagem 🥳 
