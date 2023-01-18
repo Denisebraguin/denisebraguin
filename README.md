@@ -29,8 +29,6 @@ Vou falar aqui, um pouquinho sobre mim:
   
   ##
  
- [Snake animation](https://github.com/Denisebraguin/DeniseBraguin/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
   
 <div align="center">
