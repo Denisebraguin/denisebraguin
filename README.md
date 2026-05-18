@@ -2,10 +2,10 @@
 
 Vou falar aqui, um pouquinho sobre mim:
 
-- 🔭 Tenho experiência nas áreas: comercial, faturamento, financeiro e recursos humanos, mas estou...
-- 👩‍🎓 Estudando Desenvolvimento Web Front-End, que sempre foi uma paixão 😍!!!
-- 😎 E estou procurando minha primeira oportunidade na área 🤞
-- 👩‍💻 Se você souber de alguma oportunidade ou quiser conversar comigo me manda uma mensagem 🥳 
+- 🔭 Sou UX/UI Design com experiência em diversas áreas que são desde comercial, rh e administrativas.
+- 👩‍🎓 Sou formada em Web Front-End, que sempre foi uma paixão 😍!!!
+- 😎 E estou aberta a trocar conhecimento e criar network 🤞
+
 <br>
 <div align="center"> 
   <a href="https://www.instagram.com/denise.brg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
